@@ -1,0 +1,14 @@
+{
+    "2970570231": {
+        "Name": "Ice Cream Van Simulator",
+        "Script": "https://raw.githubusercontent.com/poorpotato6n2/Roblox-Scripts/refs/heads/main/scripts/%F0%9F%8D%A6%20ICE%20CREAM%20VAN%20SIMULATOR"
+    },
+    "112975887542651": {
+        "Name": "+1 Money Prison Escape",
+        "Script": "https://raw.githubusercontent.com/poorpotato6n2/Roblox-Scripts/refs/heads/main/scripts/%2B1%20Money%20Prison%20Escape.lua"
+    },
+    "112490729816320": {
+        "Name": "Spin a Soccer Card",
+        "Script": "https://raw.githubusercontent.com/poorpotato6n2/Roblox-Scripts/refs/heads/main/scripts/%5B%E2%9C%A8%5D%20Spin%20a%20Soccer%20Card.lua"
+    }
+}
