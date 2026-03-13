@@ -10,5 +10,9 @@
     "112490729816320": {
         "Name": "Spin a Soccer Card",
         "Script": "https://raw.githubusercontent.com/poorpotato6n2/Roblox-Scripts/refs/heads/main/scripts/%5B%E2%9C%A8%5D%20Spin%20a%20Soccer%20Card.lua"
+    },
+    "94702395375549": {
+        "Name": "Run For Brainrots!",
+        "Script": "https://raw.githubusercontent.com/poorpotato6n2/Roblox-Scripts/refs/heads/main/scripts/Run%20For%20Brainrots!.lua"
     }
 }
