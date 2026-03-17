@@ -18,5 +18,9 @@
     "120546894379169": {
         "Name": "Cars vs trucks",
         "Script": "https://raw.githubusercontent.com/poorpotato6n2/Roblox-Scripts/refs/heads/main/scripts/Cars%20vs%20trucks.lua"
+    },
+    "8446266018": {
+        "Name": "Cars vs trucks",
+        "Script": "https://raw.githubusercontent.com/poorpotato6n2/Roblox-Scripts/refs/heads/main/scripts/Cars%20vs%20trucks.lua"
     }
 }
