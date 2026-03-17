@@ -14,5 +14,9 @@
     "94702395375549": {
         "Name": "Run For Brainrots!",
         "Script": "https://raw.githubusercontent.com/poorpotato6n2/Roblox-Scripts/refs/heads/main/scripts/Run%20For%20Brainrots!.lua"
+    },
+    "120546894379169": {
+        "Name": "Cars vs trucks",
+        "Script": "https://raw.githubusercontent.com/poorpotato6n2/Roblox-Scripts/refs/heads/main/scripts/Cars%20vs%20trucks.lua"
     }
 }
